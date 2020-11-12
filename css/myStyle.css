@@ -25,12 +25,19 @@
     bottom: 10px;
     left: 55%;
 }
+.mob{
+    display: none;
+}
 @media(max-width: 964px){
     .ab{
         display: none;
     }
     .footer{
         font-size: 12px;
+    }
+    .mob{
+        display: block;
+        margin-top: 20px;
     }
 }
 
