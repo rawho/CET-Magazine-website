@@ -205,3 +205,20 @@
         grid-template-columns: 1fr;
     }
 }
+
+.error_container {
+  text-align: center;
+}
+
+.error_head {
+  margin: 30px 0;
+  font-size: 100px;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: #c7d3d4ff;
+}
+
+.error_sub{
+  font-size: 30px;
+  color: #c7d3d4ff;
+}
